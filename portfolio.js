@@ -1,6 +1,5 @@
 var swiper = new Swiper(".swiper", {
     effect: "cube",
-    allowTouchMove: true,
     grabCursor: false,
     cubeEffect: {
         shadow: true,
